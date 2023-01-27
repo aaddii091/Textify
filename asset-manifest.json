@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Textify/static/css/main.c4a8dad7.chunk.css",
+    "main.js": "/Textify/static/js/main.6be539d2.chunk.js",
+    "main.js.map": "/Textify/static/js/main.6be539d2.chunk.js.map",
+    "runtime-main.js": "/Textify/static/js/runtime-main.d29a8180.js",
+    "runtime-main.js.map": "/Textify/static/js/runtime-main.d29a8180.js.map",
+    "static/js/2.3dbd9900.chunk.js": "/Textify/static/js/2.3dbd9900.chunk.js",
+    "static/js/2.3dbd9900.chunk.js.map": "/Textify/static/js/2.3dbd9900.chunk.js.map",
+    "static/js/3.bf1ffd1d.chunk.js": "/Textify/static/js/3.bf1ffd1d.chunk.js",
+    "static/js/3.bf1ffd1d.chunk.js.map": "/Textify/static/js/3.bf1ffd1d.chunk.js.map",
+    "index.html": "/Textify/index.html",
+    "static/css/main.c4a8dad7.chunk.css.map": "/Textify/static/css/main.c4a8dad7.chunk.css.map",
+    "static/js/2.3dbd9900.chunk.js.LICENSE.txt": "/Textify/static/js/2.3dbd9900.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d29a8180.js",
+    "static/js/2.3dbd9900.chunk.js",
+    "static/css/main.c4a8dad7.chunk.css",
+    "static/js/main.6be539d2.chunk.js"
+  ]
+}
